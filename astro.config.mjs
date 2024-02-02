@@ -9,7 +9,7 @@ import mdx from "@astrojs/mdx";
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.config.js'
+			configFile: './tailwind.gac.js'
 		}),
 		sitemap(),
 		robots(),
