@@ -4,7 +4,7 @@ import './modules/modals';
 
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/gac/smr/');
+connectForms('https://alexsab.ru/lead/gac/smr/', false, false, "ct_routeKey", true);
 
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.min.css';
