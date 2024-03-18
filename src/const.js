@@ -1,15 +1,24 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
-
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
-export const SITE_URL = 'gac-smr.ru'; // URL сайта по умолчанию
-export const SITE_NAME = 'Эксперт Авто'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «САВ»'; // Юр лицо
-export const LEGAL_INN = '6314034107'; // ИНН
-export const LEGAL_CITY = 'г. Самара'; // Город
-export const LEGAL_CITY_WHERE = 'Самаре'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр GAC MOTOR в Самаре'; // Описание сайта по умолчанию
-export const TELEGRAM = ''; // Имя пользователя в Телегам
-export const PHONE = '+7 (846) 993-68-00'; // Телефон по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'gac-smr.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'Эксперт Авто';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО «САВ»';
+// ИНН
+export const LEGAL_INN = '6314034107';
+// Город
+export const LEGAL_CITY = 'г. Самара';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Самаре';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр GAC MOTOR в Самаре';
+// Имя пользователя в Телегам
+export const TELEGRAM = '';
+// Телефон по умолчанию
+export const PHONE = '+7 (846) 993-68-00';
 
 export const BRAND = 'GAC';
 
