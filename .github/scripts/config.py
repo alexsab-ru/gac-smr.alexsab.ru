@@ -20,7 +20,7 @@ model_mapping = {
             "Серый": "gray.webp",
             "Голубой": "ice-blue.webp",
             "Серебристый": "silver.webp",
-            "Серебрянный": "silver.webp",
+            "Серебряный": "silver.webp",
             "Белый": "white.webp",
         }},
     "GS8, I поколение": {
@@ -40,7 +40,7 @@ model_mapping = {
             "Серый": "gray.webp",
             "Зеленый": "green.webp",
             "Серебристый": "silver.webp",
-            "Серебрянный": "silver.webp",
+            "Серебряный": "silver.webp",
             "Белый": "white.webp",
         }},
     "M8": {
