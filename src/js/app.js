@@ -7,7 +7,8 @@ import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
 connectForms('https://alexsab.ru/lead/gac/smr/', {
 	confirmModalText: 'Вы уже оставляли заявку сегодня, с Вами обязательно свяжутся в ближайшее время!',
-	ct_routeKey: "ct_callback"
+	ct_routeKey: "ct_callback",
+	verbose: true
 });
 
 import GLightbox from 'glightbox';
