@@ -31,6 +31,7 @@ export const LINKS_MENU = [
 	// {url: 'news/', name: 'Новости'},
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
 	{url: 'service-request/', name: 'Запись на сервис'},
+	{url: 'service-and-warranty/', name: 'Сервис и гарантия'},
 	{url: '#services', name: 'Услуги'},
 	{url: 'contacts/', name: 'Контакты'},
 ];
