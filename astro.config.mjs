@@ -26,6 +26,6 @@ export default defineConfig({
 		mdx(),
 		icon(),
 	],
-	site: 'https://gac-smr.ru',
-	base: "/"
+	site: 'https://alexsab-ru.github.io',
+	base: "/gac-smr.ru/"
 });
