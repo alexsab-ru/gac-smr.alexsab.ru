@@ -697,8 +697,9 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
-			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<accepted_autoru_exclusive>true</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:58+03:00</requires_filling_for_publication_at>
 		<max_discount>700000</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-серый-2024/</url></car>
 		<car>
@@ -777,8 +778,9 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
-			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<accepted_autoru_exclusive>true</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:01+03:00</requires_filling_for_publication_at>
 		<max_discount>700000</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-белый-2024/</url></car>
 		<car>
@@ -852,8 +854,9 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
-			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<accepted_autoru_exclusive>true</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:03+03:00</requires_filling_for_publication_at>
 		<max_discount>700000</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-серебряный-2024/</url></car>
 		<car>
