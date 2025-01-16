@@ -697,7 +697,6 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>true</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:58+03:00</requires_filling_for_publication_at>
@@ -778,7 +777,6 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>true</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:01+03:00</requires_filling_for_publication_at>
@@ -854,7 +852,6 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>true</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:03+03:00</requires_filling_for_publication_at>
