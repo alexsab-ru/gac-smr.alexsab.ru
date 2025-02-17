@@ -15,10 +15,15 @@
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/0f28fd8ab05a2148265b6114a1f071b8/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d835b230303198451a127fab18ad824e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/1aca472a7f0acfdabbf5a8935b4b71fc/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d05c08f3320021a1b9b299f7b808fc3b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/a46c2c5d7be5ff222becb29d876a852e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/ed632e39ca1cf8b0b36167a09228ad33/max1920.jpg</image>
 				<image>https://media.cm.expert/images/958ab7e435944af19124ab3f21f7ce7d/max1920.jpg</image>
 				<image>https://media.cm.expert/images/7ca86b0912a3189060b3a235fd55a5e7/max1920.jpg</image>
@@ -92,6 +97,7 @@
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:40+03:00</requires_filling_for_publication_at>
@@ -111,9 +117,14 @@
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/10ce7d758f2f3107b99142b3080fdb88/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/b2488b0bf8d4bdc776cf091cabc9f635/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/feb36a078a5245cef62bf50adf224d9d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/e34b9dd40b1be7a0d1deb8502c05350b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/57fb8d6764d9731816b647d571efc363/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d4e84dfbb2925143ebc60e73748d85d8/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5cd03adeae489257ad4f71cd69182aaa/max1920.jpg</image>
@@ -180,6 +191,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:43+03:00</requires_filling_for_publication_at>
@@ -199,9 +211,14 @@
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/ad7fad9d620fc8862ba3fad542e5ecb3/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/57560814e7811aa73ede4e4903baa973/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d495dfbfea7263c790ca0c8b4691589c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/30cef58ef0919d7fca935aba305ce0c3/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/220077e1a6489bf7e11940ff8273107e/max1920.jpg</image>
 				<image>https://media.cm.expert/images/1af81ec28ad70888f58ed43eb8865188/max1920.jpg</image>
 				<image>https://media.cm.expert/images/8b14beee4c2b55fe7eea4dc4948606e8/max1920.jpg</image>
@@ -265,6 +282,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:45+03:00</requires_filling_for_publication_at>
@@ -284,10 +302,15 @@
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/03a32376b62017c0ed3594d580624d50/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/62c5b8ba04e487082ce372ca56e6858a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/74703bef2a8d705360b44b9978a767eb/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/29b9b95dcd6400133fd1bd7d904559e0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5aff688d01bf8aefdd9b5c047ff2b930/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/e7e90ac771dfaf6472ad7ac5177bc225/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d74c3dc3a40049098fcd877a23021fd2/max1920.jpg</image>
 				<image>https://media.cm.expert/images/400cc1c9aa6d0db0a08a2caffd4c0d97/max1920.jpg</image>
@@ -353,6 +376,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB-R</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:47+03:00</requires_filling_for_publication_at>
@@ -372,10 +396,15 @@
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 19, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера задняя, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Круиз-контроль, Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система помощи при старте в гору, Система помощи при торможении, Система стабилизации, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев лобового стекла, Электропривод зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/25cf00d5eb86b0232787af3583579f6a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/dadd9e1339b1e602a7e3017efcabd350/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/81610ed57136ab7584569ee2637266d4/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/0d4bf219c149dca40c4bab251d1256b1/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/3d5a3070aa14e074915af1cdfba36ee9/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5750fb9c7ba46e75d219f6cad11bbb9a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/85837b8cda196524feb5dc90ffc215fc/max1920.jpg</image>
 				<image>https://media.cm.expert/images/6d37dfda1e3a394ab3d4bb6536d0e650/max1920.jpg</image>
@@ -449,6 +478,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB-R</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:50+03:00</requires_filling_for_publication_at>
@@ -467,10 +497,15 @@
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 19, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера задняя, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Круиз-контроль, Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система помощи при старте в гору, Система помощи при торможении, Система стабилизации, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев лобового стекла, Электропривод зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/b514ed50082da76dff18ee3ac3e52acd/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/111cd6b07ff23a07d0d9ca37b510a484/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/114f6d4749a46ec79560799521c3b81a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/e37aba0a3b8daa885b7d9d17371968eb/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/0ce8ed3b06eaaa075556793b8f7a03ca/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/76edfcc8542b8db83c6411e7bd48b4e8/max1920.jpg</image>
 				<image>https://media.cm.expert/images/ed725f0dd81de4baf4ac99f7be3be2f6/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f648c350f61d2ae1c058633d6fa163a6/max1920.jpg</image>
@@ -519,6 +554,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB-R</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:49:52+03:00</requires_filling_for_publication_at>
@@ -537,10 +573,15 @@
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Вентиляция передних сидений, Датчик давления в шинах, Датчик дождя, Датчик света, Декоративная подсветка салона, Диски 18, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/3a91f51b4e26272f2da3df6e8796bf18/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/3ddc940a2c0ec045cab006e370c77971/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/09b78ac30c98041c364691d155f972e7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/781ba71533ff3b28a8c6bb010a536b66/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/e3cebc55d839c69d608e62cc6effb1c7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/cf80d53e1e71f9cfa644ff5716871a13/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d41f7f9c8ac40574091416bcbf962110/max1920.jpg</image>
 				<image>https://media.cm.expert/images/97a2475a594878fe9fab3133d34cd3fa/max1920.jpg</image>
@@ -598,6 +639,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-17T13:01:57+03:00</requires_filling_for_publication_at>
@@ -616,10 +658,15 @@
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка передних сидений, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/23cb2e8df9b3334cbe260034ead6a483/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/b25aab76e4b0ca7c2209811e2415f520/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/ad6ad75db90e5dceeeac4789439b28f0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f2994b3b54c6b2be41a545def3bd661c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/c8311b4f9f4dfdee5eb390c467fd301f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/a5e0ff6fc0c8f754a6351e6084b907ad/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f8f572e8f2baa5881066318b420502e9/max1920.jpg</image>
 				<image>https://media.cm.expert/images/ef2890b1ddbf4a8794bae552d9ff620a/max1920.jpg</image>
@@ -678,6 +725,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:06+03:00</requires_filling_for_publication_at>
@@ -696,10 +744,15 @@
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/05e722e50123d03233c8e3c8fdbe3bbe/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/6f5e5175fefbba1d466f29db1564b75e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/9dfb35a0aaa51cb31a28a633303aa61b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d08aa821ce78a68d2fe23bded3fc741e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/cbd7b253460193db1629fe0cfac3ec1a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/05ba4606e8978399ef80e0eb04d88495/max1920.jpg</image>
 				<image>https://media.cm.expert/images/079c7730bbb29200b73bd8b61d9a8d2e/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f1c2925970a018f5e2d0bcd147a483a2/max1920.jpg</image>
@@ -759,6 +812,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:08+03:00</requires_filling_for_publication_at>
@@ -777,10 +831,15 @@
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/248a727b2e4626482403824576ce8885/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f75666850de5a4f614280b1468caf9a9/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/92bcccea4e5194d4b3e3dd4ac001f0e8/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/fc350237b413fd4cc7101d5d6d8f7050/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/33ab45c1c5ef8791beab87d669836b0d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/c40f7fc2df9a4808971dcbcbb0c1c979/max1920.jpg</image>
 				<image>https://media.cm.expert/images/2c8514b16386a5d3e7aad532c29c5dd8/max1920.jpg</image>
 				<image>https://media.cm.expert/images/899fcde9cc9e956938974ad51442d5ef/max1920.jpg</image>
@@ -840,6 +899,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:10+03:00</requires_filling_for_publication_at>
@@ -858,10 +918,15 @@
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/8cf94d35461488d715cac7d05e71a1d5/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/c43f36fe4b7a925de8953b8eac42eb6c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/e4bf760924878670a969c501623ef45e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/c19e84482b91827a8a435ebd34722f5c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/64b8f47be92944ea0736936291b36a27/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/079cbbc5078d44635df8c7e5236d3922/max1920.jpg</image>
 				<image>https://media.cm.expert/images/6439f1ddcf15677516ba4aec3458509d/max1920.jpg</image>
 				<image>https://media.cm.expert/images/bbb627c772beb35fc41df5ecb37e796c/max1920.jpg</image>
@@ -913,6 +978,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:12+03:00</requires_filling_for_publication_at>
@@ -931,10 +997,15 @@
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/93e2086541308868ce956972e3c824ec/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/21387322903229b7c404792969118c9c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/9eb468fdb0ebe3170914acb75937c47b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/09db990e5ce7c8bac51927c90a5345e1/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/1f99ea607bee63bd7c44d65a4e51f545/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/3df3c25ef007cc7019216d3ae28a579c/max1920.jpg</image>
 				<image>https://media.cm.expert/images/1ca777ec3bddf24dd7e2c7b648630d16/max1920.jpg</image>
 				<image>https://media.cm.expert/images/1ee6ab46300451cc8978c8c7f4221e43/max1920.jpg</image>
@@ -1005,6 +1076,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:16+03:00</requires_filling_for_publication_at>
@@ -1023,10 +1095,15 @@
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Автоматический корректор фар, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Бортовой компьютер, Вентиляция задних сидений, Вентиляция передних сидений, Датчик давления в шинах, Датчик света, Декоративная подсветка салона, Диски 18, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Открытие багажника без помощи рук, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по вылету, Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Розетка 12V, Светодиодные фары, Сиденья с массажем, Система автоматической парковки, Система адаптивного освещения, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система предотвращения столкновения, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Складной столик на спинках передних сидений, Солнцезащитные шторки в задних дверях, Тонированные стекла, Третий ряд сидений, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/9c04cb1800cc1e8297627ac9724598aa/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/eda99f300fff5be24d6bda7473b92575/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/92e5b4b2f478a5714e79e2ce184ff5c1/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/a510ea61866b8e6be3085436363ec051/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/cc3cf0831aa14885056f4b3f90d4589b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/1c7039008c8af0585404ef3f46e6d80c/max1920.jpg</image>
 				<image>https://media.cm.expert/images/0b2f589a3daccf3789aac5e799445252/max1920.jpg</image>
 				<image>https://media.cm.expert/images/564960d67c8c51677cd6ac90fbc3afaf/max1920.jpg</image>
@@ -1104,6 +1181,7 @@
 			<tradein_discount />
 			<complectation_name>GX</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:19+03:00</requires_filling_for_publication_at>
@@ -1122,10 +1200,15 @@
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Автоматический корректор фар, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Бортовой компьютер, Вентиляция задних сидений, Вентиляция передних сидений, Датчик давления в шинах, Датчик света, Декоративная подсветка салона, Диски 18, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Открытие багажника без помощи рук, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по вылету, Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Розетка 12V, Светодиодные фары, Сиденья с массажем, Система автоматической парковки, Система адаптивного освещения, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система предотвращения столкновения, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Складной столик на спинках передних сидений, Солнцезащитные шторки в задних дверях, Тонированные стекла, Третий ряд сидений, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/253908b27ed6de0063b721dda2798aa2/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/17418ff49088d3ac4f491188a9cb6dcb/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/cec3d377dadeee8b70cefcaa906d9161/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/e7fa808963e0916d7d2ae57f5b11cb4e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/80148844cc5b192104e3f7a5508af974/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f9fa111fc286282cce5c065c15a0787d/max1920.jpg</image>
 				<image>https://media.cm.expert/images/fc79730a9a4b25f3659d739fe1b3d8a7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/271aa3af8dea4f07d0e0bec7329ee82a/max1920.jpg</image>
@@ -1188,6 +1271,7 @@
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GX</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:24+03:00</requires_filling_for_publication_at>
@@ -1207,14 +1291,19 @@
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 18, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера задняя, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Круиз-контроль, Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система помощи при старте в гору, Система помощи при торможении, Система стабилизации, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев лобового стекла, Электропривод зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/19ddec38363e0336e30f109b627a628d/max1920.jpg</image>
-				<image>https://media.cm.expert/images/39a8c2bd1e6be0093138d4b08a705993/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2608abc4bb4b5399d91b43a6e536861b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/4c6053287c507e301c3d7d999f5cb52f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5d6487dfdd4b85d3e76fdb3228e6158a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/82a3970c414f46161a49b6e8a57684b1/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/04c5fea8095507ebb8cf05d91066b9b7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/39a8c2bd1e6be0093138d4b08a705993/max1920.jpg</image>
 				<image>https://media.cm.expert/images/6d6c60485803982348179d3edcfdd078/max1920.jpg</image>
 				<image>https://media.cm.expert/images/4301ca176818d2e0647cfc2f7484a08f/max1920.jpg</image>
-				<image>https://media.cm.expert/images/2608abc4bb4b5399d91b43a6e536861b/max1920.jpg</image>
 				<image>https://media.cm.expert/images/2d263a0a8d6b2d5b7eb40d4dab5c1a78/max1920.jpg</image>
 				<image>https://media.cm.expert/images/38344ccee318469ad66f0674941627a5/max1920.jpg</image>
 				<image>https://media.cm.expert/images/096543d0e4d59765c4f89d4f867ac4c7/max1920.jpg</image>
@@ -1276,6 +1365,7 @@ Carplay
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-07-11T09:50:27+03:00</requires_filling_for_publication_at>
@@ -1295,10 +1385,15 @@ Carplay
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Вентиляция передних сидений, Датчик давления в шинах, Датчик дождя, Датчик света, Декоративная подсветка салона, Диски 18, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/012857319cf3a7e4878b12d45e472694/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/8604346cbf4ea84ccfc1cca256472162/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/6941343f71b852bba17e56cebb24efae/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/0139ebac406e22e549f0d7501dad162a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/f59c31599b2cd29deea58ae2b54c36a4/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/32211a6a28834fea560d49d00850a4a0/max1920.jpg</image>
 				<image>https://media.cm.expert/images/cc4fa6bb29e488e04bdf14aefb7df7df/max1920.jpg</image>
 				<image>https://media.cm.expert/images/dba00492cef48e0064def1db78045357/max1920.jpg</image>
@@ -1349,6 +1444,7 @@ Carplay
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-17T13:03:51+03:00</requires_filling_for_publication_at>
@@ -1368,10 +1464,15 @@ Carplay
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Вентиляция передних сидений, Датчик давления в шинах, Датчик дождя, Датчик света, Декоративная подсветка салона, Диски 18, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/3754a283a8284cff026aa3fa302d6360/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/733489449d547dbbe6654a5cd6ff2d19/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/aaa9cb864bc88b3c3edbc760c00c6db4/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/b6ffd1fce6910bf8b6639787431e2dbf/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/db38502bc7b45b540a7af982a3254ff4/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/c540414624a5a5ba6fd21e915fffa94d/max1920.jpg</image>
 				<image>https://media.cm.expert/images/878c47b5e9b5e592c85b478938b2d3d1/max1920.jpg</image>
 				<image>https://media.cm.expert/images/b9046849bab31534036296563b0dd3a3/max1920.jpg</image>
@@ -1428,6 +1529,7 @@ Carplay
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-17T13:05:30+03:00</requires_filling_for_publication_at>
@@ -1507,6 +1609,7 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-09-20T14:58:49+03:00</requires_filling_for_publication_at>
@@ -1582,6 +1685,7 @@ Carplay
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB-R</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-16T08:19:02+03:00</requires_filling_for_publication_at>
@@ -1601,11 +1705,16 @@ Carplay
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/56e6ae117db27ff9a315d4039bd99e37/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/a6dd56397f8d571904ea3ee605399faf/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/68e4b9bd7114dac8a3607a6bc3b7e504/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/875cc47621d413d025e52687288ab1d9/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/588f10bd77a61e5943765bf8eec51914/max1920.jpg</image>
 				<image>https://media.cm.expert/images/871217f2e93cb7797bf882f6457eed6d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/521bb94e874a08b27923b8a3450c82f6/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5a9f4e343d6cda21af07c85e17a89bc4/max1920.jpg</image>
 				<image>https://media.cm.expert/images/ba9f85514dfb43506e7cd8e5abfb961c/max1920.jpg</image>
@@ -1661,6 +1770,7 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-16T08:01:20+03:00</requires_filling_for_publication_at>
@@ -1740,6 +1850,7 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-09-20T16:15:17+03:00</requires_filling_for_publication_at>
@@ -1759,10 +1870,15 @@ Carplay
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/11c44b39cb6a9b5534d2ede4d8f2e7a9/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/54e1a32b94160d0f24b6be81909f4a6d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/31b59bc928527d31dc1c58ac967d871c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/0f75c889060ca814848735de627fa75b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/9917a4711b94d21bdfb51b6f0b929506/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/603810641bc07c56c6e01e52f09ee0fb/max1920.jpg</image>
 				<image>https://media.cm.expert/images/4bacb128077a63fa259731bc4199552d/max1920.jpg</image>
 				<image>https://media.cm.expert/images/647e7a6dda90aed06d60657b63bb1edb/max1920.jpg</image>
@@ -1823,6 +1939,7 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>150000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-09-21T10:31:47+03:00</requires_filling_for_publication_at>
@@ -1842,10 +1959,15 @@ Carplay
 			<extras />
 			<images>
 				<image>https://media.cm.expert/images/2d5286dbc6d03d6f1abdf4454a88205b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4851b09f7bd36ef5846a89e2772ae30a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/159ce3f18a88a85defd667be54cb36d1/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba7815ea49259ce821218606d533a996/max1920.jpg</image>
 				<image>https://media.cm.expert/images/96275ca44875da60228cf359f31e20bc/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9d7ba35c3281796b3544c09c0cc307b7/max1920.jpg</image>
 				<image>https://media.cm.expert/images/3e3c4e476035174c25cceb11e99c52ee/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d60a4e960d27347630a717d6918f1e83/max1920.jpg</image>
 				<image>https://media.cm.expert/images/d0c4573d0fddb3eba1094ed0cdc3117b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e118f7c6cb8572295849e6389f37a835/max1920.jpg</image>
 				<image>https://media.cm.expert/images/3f079f56ee05ef6302f0629928af9dc4/max1920.jpg</image>
 				<image>https://media.cm.expert/images/09208703f42685e83ad1664e3e0d0e4f/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5c4d7f3e28d02d415c6ac9777c9e356f/max1920.jpg</image>
@@ -1917,6 +2039,7 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>150000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-16T14:58:25+03:00</requires_filling_for_publication_at>
@@ -2068,6 +2191,7 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-25T11:29:27+03:00</requires_filling_for_publication_at>
@@ -2152,6 +2276,7 @@ Carplay
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-25T15:11:49+03:00</requires_filling_for_publication_at>
@@ -2241,6 +2366,7 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2024-10-25T15:44:03+03:00</requires_filling_for_publication_at>
@@ -2337,6 +2463,7 @@ Carplay
 			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-01-24T15:28:18+03:00</requires_filling_for_publication_at>
