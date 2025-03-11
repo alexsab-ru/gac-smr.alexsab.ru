@@ -2597,12 +2597,40 @@ Carplay
 			<year>2024</year>
 			<color>Серый</color>
 			<drive>Полный</drive>
-			<price>4749000</price>
+			<price>4849000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
+				<image>https://media.cm.expert/images/6d04bb4c692428acd0165c2c0ef16cfc/max1920.jpg</image>
+				<image>https://media.cm.expert/images/f6821b64e5cc8891a4d69cc6cce3d193/max1920.jpg</image>
+				<image>https://media.cm.expert/images/85ca7fa0031e6ccc2716f3b080c0092c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/3681d37f7e8a0fa7d639472cb6e6648c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/bb50a12e927a6af9b2c5c2e49afa4864/max1920.jpg</image>
+				<image>https://media.cm.expert/images/6886bfe34abad44ea60fa389cf669600/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4fdc27c1548aa06a6cd6da3c838e8bb0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/34d8c02db816534ec79d96ed024af70b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d404df9c738e7673f97489d9b7318602/max1920.jpg</image>
+				<image>https://media.cm.expert/images/74d2ba8ee31b245aafad8122893cc102/max1920.jpg</image>
+				<image>https://media.cm.expert/images/5eec4f7e09745f7a9e23553db21c1693/max1920.jpg</image>
+				<image>https://media.cm.expert/images/f0b01ac92a525ccf1b337fd2b8ffbe50/max1920.jpg</image>
+				<image>https://media.cm.expert/images/3b1a0ac78ab752554120fc759c5c89eb/max1920.jpg</image>
+				<image>https://media.cm.expert/images/3198305df4bf333a8dff74083aa11d68/max1920.jpg</image>
+				<image>https://media.cm.expert/images/14a1c7b0d8f4d4e77d47a8b675da9fc6/max1920.jpg</image>
+				<image>https://media.cm.expert/images/29fba66f047dd52a694008ab10f1a2d0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a4d84f93e06885bb94acc631d234b052/max1920.jpg</image>
+				<image>https://media.cm.expert/images/bdd88ec6242ac06599083e96ecafb949/max1920.jpg</image>
+				<image>https://media.cm.expert/images/84c72e6f3eee33e313f2ff8f17113269/max1920.jpg</image>
+				<image>https://media.cm.expert/images/7bf35f01dde85b1bb08acd96420e396b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/b57d0a798cb6d84ba7c7275988416312/max1920.jpg</image>
+				<image>https://media.cm.expert/images/6c895f5e52d2ca7ad1afcaddf28084f3/max1920.jpg</image>
+				<image>https://media.cm.expert/images/33bdb09c64378ee674bbeab4e9b8cd59/max1920.jpg</image>
+				<image>https://media.cm.expert/images/806974e86f649251d679eb5f8148594b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/55b38df0c08ae24a50011c4b0cd7315d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/fa6b8a12e2df63452369f9d5683589b4/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d2c4b7495c841e5927b95bf589b048b7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/faa4b669158aa141a70c1fc224751376/max1920.jpg</image>
 			</images>
 			<poi_id>Самара, Южное шоссе, д.12, стр. 4</poi_id>
 			<armored>нет</armored>
@@ -2625,7 +2653,17 @@ Carplay
 ПРОГРАММА TRADE IN
 ЦЕНА УКАЗАНА С УЧЕТОМ МАКСИМАЛЬНОЙ ВЫГОДЫ
 
-!!!! ЗИМНЯЯ РЕЗИНА В ПОДАРОК !!!!</description>
+!!!! ЗИМНЯЯ РЕЗИНА В ПОДАРОК !!!!
+Комплектация:
+Светодиодная оптика
+Датчики парковки передние и задние
+Запуск автомобиля с кнопки
+Камера заднего вида
+3х зонный климат контроль,
+Цифровая приборная панель
+Кожаный сало
+Электропривод багажника
+Обогрев лобового стекла</description>
 			<doors_count>5</doors_count>
 			<engine_type>Бензин</engine_type>
 			<availability>В наличии</availability>
@@ -2647,9 +2685,10 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-02-20T16:02:22+03:00</requires_filling_for_publication_at>
-		<max_discount>800000</max_discount><priceWithDiscount>3949000</priceWithDiscount><sale_price>3949000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
+		<max_discount>800000</max_discount><priceWithDiscount>4049000</priceWithDiscount><sale_price>4049000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
 	</cars>
 </data>
