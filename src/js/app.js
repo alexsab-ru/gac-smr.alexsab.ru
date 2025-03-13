@@ -4,12 +4,17 @@ import './modules/modals';
 import './modules/latest.posts';
 import './modules/stock-slider';
 
+import ResponsiveMenu from './modules/ResponsiveMenu';
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
 connectForms('https://alexsab.ru/lead/gac/smr/', {
 	confirmModalText: 'Вы уже оставляли заявку сегодня, с Вами обязательно свяжутся в ближайшее время!',
 	ct_routeKey: "ct_callback",
 	verbose: true
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+	new ResponsiveMenu('#site_nav ul');
 });
 
 import GLightbox from 'glightbox';
