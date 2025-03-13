@@ -2585,7 +2585,6 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-02-20T15:41:58+03:00</requires_filling_for_publication_at>
@@ -2786,7 +2785,6 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-11T16:23:13+03:00</requires_filling_for_publication_at>
