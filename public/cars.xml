@@ -2981,14 +2981,12 @@ Carplay
 			<custom>Растаможен</custom>
 			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка передних сидений, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
-				<image>https://media.cm.expert/images/2d5286dbc6d03d6f1abdf4454a88205b/max1920.jpg</image>
-				<image>https://media.cm.expert/images/9e6af7e9818b11a2e5b4c60246a9a686/max1920.jpg</image>
-				<image>https://media.cm.expert/images/159ce3f18a88a85defd667be54cb36d1/max1920.jpg</image>
-				<image>https://media.cm.expert/images/96275ca44875da60228cf359f31e20bc/max1920.jpg</image>
-				<image>https://media.cm.expert/images/3e3c4e476035174c25cceb11e99c52ee/max1920.jpg</image>
-				<image>https://media.cm.expert/images/d0c4573d0fddb3eba1094ed0cdc3117b/max1920.jpg</image>
-				<image>https://media.cm.expert/images/3f079f56ee05ef6302f0629928af9dc4/max1920.jpg</image>
-				<image>https://media.cm.expert/images/09208703f42685e83ad1664e3e0d0e4f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/02165e15d7aafae4eddc6cb18292cad1/max1920.jpg</image>
+				<image>https://media.cm.expert/images/5afccb7dcb6475510c80ec1036569466/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ec61c4c736b3e4f8d87162e4686bc163/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d4889827b20516e69e26b17f4667be42/max1920.jpg</image>
+				<image>https://media.cm.expert/images/b9fafe75a0070edf45c2c7936e851bc5/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d656fa465bd29b8746163a59d1f797f9/max1920.jpg</image>
 				<image>https://media.cm.expert/images/5c4d7f3e28d02d415c6ac9777c9e356f/max1920.jpg</image>
 				<image>https://media.cm.expert/images/557a997d3604d9df4c8e95bd2b01401a/max1920.jpg</image>
 				<image>https://media.cm.expert/images/9e4cd9dd5a543ddf06eb1de4c4a2678c/max1920.jpg</image>
@@ -3068,5 +3066,281 @@ Carplay
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T14:21:00+03:00</requires_filling_for_publication_at>
 		<max_discount>1000000</max_discount><priceWithDiscount>3499000</priceWithDiscount><sale_price>3499000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-зеленый-2024/</url></car>
+		<car>
+			<pts>Оригинал</pts>
+			<run>0</run>
+			<sts />
+			<vin>LMGJU3G82R1041883</vin>
+			<year>2024</year>
+			<color>Черный</color>
+			<drive>Полный</drive>
+			<price>4499000</price>
+			<wheel>левый</wheel>
+			<action>show</action>
+			<custom>Растаможен</custom>
+			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка передних сидений, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
+			<images>
+				<image>https://media.cm.expert/images/efec4bd31c58579ffebdaf8d371bff8e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/fa9bee8b108defcec7cb150b903c8a70/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d7d3ebd81b40810731089d178dbaeada/max1920.jpg</image>
+				<image>https://media.cm.expert/images/c0f84d552c26248249224de2b2ee522f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/be72ae9c65a5f74f19f54025b0f407d5/max1920.jpg</image>
+				<image>https://media.cm.expert/images/98b5435f3046684d31b519548f19544f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a6e0c93884c311b74d5abe0d4b076caf/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d3eb9cb145a46b128e340e4c6a3da388/max1920.jpg</image>
+				<image>https://media.cm.expert/images/89763fb22eb7b1ef921d9777d7b5b937/max1920.jpg</image>
+				<image>https://media.cm.expert/images/970d65e718543f0be33b308cd7033425/max1920.jpg</image>
+				<image>https://media.cm.expert/images/62ffb2e410eb68cdeac77fab6c57baf2/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2debf7223e1ebbf259e97c17e0fd6a77/max1920.jpg</image>
+				<image>https://media.cm.expert/images/df1e0589cb3ccd8d954b2334d422425e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9c31ea4d9809891ee321eae7d406d51d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/25d6ae1b2462f044983469e3f093192c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9f230702cea0bc2eb2fb5f562b93b325/max1920.jpg</image>
+				<image>https://media.cm.expert/images/27a53e70ae24d96e4365fd069e5807ba/max1920.jpg</image>
+				<image>https://media.cm.expert/images/cef8aa097f1a83ec595ac4451d69791e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/31db7441c39befc96acb9877e3df3db0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/767717b265c2c5f03959dd970f5fd371/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4d8c64585391e207013ee6e728d1a41a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/0ca099c24666249b577ff864d499de73/max1920.jpg</image>
+			</images>
+			<poi_id>Самара, Южное шоссе, д.12, стр. 4</poi_id>
+			<armored>нет</armored>
+			<gearbox>Автоматическая</gearbox>
+			<mark_id>GAC</mark_id>
+			<section>Новые</section>
+			<category>Легковые</category>
+			<currency>RUR</currency>
+			<with_nds>false</with_nds>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<folder_id>GS8, II</folder_id>
+			<unique_id>68222022</unique_id>
+			<description>ДОЛЛАР УПАЛ !!!!
+ШОК ЦЕНА !!!
+УСПЕЙТЕ КУПИТЬ ДО 31.03.2025 ПО СНИЖЕННОЙ СТОИМОСТИ!!!
+Новый GAC GS8 У ОФИЦИАЛЬНОГО ДИЛЕРА “ЭКСПЕРТ АВТО GAC” Гарантия 5 лет или 150000 км пробега!
+
+ЛУЧШИЕ УСЛОВИЯ АВТОКРЕДИТОВАНИЯ В ГОРОДЕ
+РАССРОЧКА ПОД 0,01%
+ПРОГРАММА TRADE IN
+ЦЕНА УКАЗАНА С УЧЕТОМ МАКСИМАЛЬНОЙ ВЫГОДЫ
+
+!!!! ЗИМНЯЯ РЕЗИНА В ПОДАРОК !!!!
+
+Комплектация:
+Светодиодная оптика
+Датчики парковки передние и задние
+Запуск автомобиля с кнопки
+Камера заднего вида
+3х зонный климат контроль,
+Цифровая приборная панель
+Кожаный сало
+Электропривод багажника
+Обогрев лобового стекла</description>
+			<doors_count>5</doors_count>
+			<engine_type>Бензин</engine_type>
+			<availability>В наличии</availability>
+			<contact_info>
+				<contact>
+					<phone />
+					<sip_url />
+				</contact>
+			</contact_info>
+			<engine_power>231 л.с.</engine_power>
+			<autoru_expert>false</autoru_expert>
+			<engine_volume>2000</engine_volume>
+			<owners_number>Не было владельцев</owners_number>
+			<registry_year>2024</registry_year>
+			<price_category>Неопределенная</price_category>
+			<booking_allowed>false</booking_allowed>
+			<credit_discount>400000</credit_discount>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<tradein_discount>400000</tradein_discount>
+			<complectation_name>GT</complectation_name>
+			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
+			<not_registered_in_russia>true</not_registered_in_russia>
+			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<requires_filling_for_publication_at>2025-03-14T16:08:29+03:00</requires_filling_for_publication_at>
+		<max_discount>1000000</max_discount><priceWithDiscount>3499000</priceWithDiscount><sale_price>3499000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<car>
+			<pts>Оригинал</pts>
+			<run>0</run>
+			<sts />
+			<vin>LMGJU3G88R1040706</vin>
+			<year>2024</year>
+			<color>Черный</color>
+			<drive>Полный</drive>
+			<price>4499000</price>
+			<wheel>левый</wheel>
+			<action>show</action>
+			<custom>Растаможен</custom>
+			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка передних сидений, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
+			<images>
+				<image>https://media.cm.expert/images/efec4bd31c58579ffebdaf8d371bff8e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/fa9bee8b108defcec7cb150b903c8a70/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d7d3ebd81b40810731089d178dbaeada/max1920.jpg</image>
+				<image>https://media.cm.expert/images/c0f84d552c26248249224de2b2ee522f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/be72ae9c65a5f74f19f54025b0f407d5/max1920.jpg</image>
+				<image>https://media.cm.expert/images/98b5435f3046684d31b519548f19544f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a6e0c93884c311b74d5abe0d4b076caf/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d3eb9cb145a46b128e340e4c6a3da388/max1920.jpg</image>
+				<image>https://media.cm.expert/images/89763fb22eb7b1ef921d9777d7b5b937/max1920.jpg</image>
+				<image>https://media.cm.expert/images/970d65e718543f0be33b308cd7033425/max1920.jpg</image>
+				<image>https://media.cm.expert/images/62ffb2e410eb68cdeac77fab6c57baf2/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2debf7223e1ebbf259e97c17e0fd6a77/max1920.jpg</image>
+				<image>https://media.cm.expert/images/df1e0589cb3ccd8d954b2334d422425e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9c31ea4d9809891ee321eae7d406d51d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/25d6ae1b2462f044983469e3f093192c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/9f230702cea0bc2eb2fb5f562b93b325/max1920.jpg</image>
+				<image>https://media.cm.expert/images/27a53e70ae24d96e4365fd069e5807ba/max1920.jpg</image>
+				<image>https://media.cm.expert/images/cef8aa097f1a83ec595ac4451d69791e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/31db7441c39befc96acb9877e3df3db0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/767717b265c2c5f03959dd970f5fd371/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4d8c64585391e207013ee6e728d1a41a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/0ca099c24666249b577ff864d499de73/max1920.jpg</image>
+			</images>
+			<poi_id>Самара, Южное шоссе, д.12, стр. 4</poi_id>
+			<armored>нет</armored>
+			<gearbox>Автоматическая</gearbox>
+			<mark_id>GAC</mark_id>
+			<section>Новые</section>
+			<category>Легковые</category>
+			<currency>RUR</currency>
+			<with_nds>false</with_nds>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<folder_id>GS8, II</folder_id>
+			<unique_id>68222049</unique_id>
+			<description>ДОЛЛАР УПАЛ !!!!
+ШОК ЦЕНА !!!
+УСПЕЙТЕ КУПИТЬ ДО 31.03.2025 ПО СНИЖЕННОЙ СТОИМОСТИ!!!
+Новый GAC GS8 У ОФИЦИАЛЬНОГО ДИЛЕРА “ЭКСПЕРТ АВТО GAC” Гарантия 5 лет или 150000 км пробега!
+
+ЛУЧШИЕ УСЛОВИЯ АВТОКРЕДИТОВАНИЯ В ГОРОДЕ
+РАССРОЧКА ПОД 0,01%
+ПРОГРАММА TRADE IN
+ЦЕНА УКАЗАНА С УЧЕТОМ МАКСИМАЛЬНОЙ ВЫГОДЫ
+
+!!!! ЗИМНЯЯ РЕЗИНА В ПОДАРОК !!!!
+
+Комплектация:
+Светодиодная оптика
+Датчики парковки передние и задние
+Запуск автомобиля с кнопки
+Камера заднего вида
+3х зонный климат контроль,
+Цифровая приборная панель
+Кожаный сало
+Электропривод багажника
+Обогрев лобового стекла</description>
+			<doors_count>5</doors_count>
+			<engine_type>Бензин</engine_type>
+			<availability>В наличии</availability>
+			<contact_info>
+				<contact>
+					<phone />
+					<sip_url />
+				</contact>
+			</contact_info>
+			<engine_power>231 л.с.</engine_power>
+			<autoru_expert>false</autoru_expert>
+			<engine_volume>2000</engine_volume>
+			<owners_number>Не было владельцев</owners_number>
+			<registry_year>2024</registry_year>
+			<price_category>Неопределенная</price_category>
+			<booking_allowed>false</booking_allowed>
+			<credit_discount>400000</credit_discount>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<tradein_discount>400000</tradein_discount>
+			<complectation_name>GT</complectation_name>
+			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
+			<not_registered_in_russia>true</not_registered_in_russia>
+			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<requires_filling_for_publication_at>2025-03-14T16:13:32+03:00</requires_filling_for_publication_at>
+		<max_discount>0</max_discount><priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<car>
+			<pts>Оригинал</pts>
+			<run>0</run>
+			<sts />
+			<vin>LMGJU3G81R1042619</vin>
+			<year>2024</year>
+			<color>Серый</color>
+			<drive>Полный</drive>
+			<price>4849000</price>
+			<wheel>левый</wheel>
+			<action>show</action>
+			<custom>Растаможен</custom>
+			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
+			<images>
+				<image>https://media.cm.expert/images/6d04bb4c692428acd0165c2c0ef16cfc/max1920.jpg</image>
+				<image>https://media.cm.expert/images/f6821b64e5cc8891a4d69cc6cce3d193/max1920.jpg</image>
+				<image>https://media.cm.expert/images/41bee4ab359c1037284579d01415f2fd/max1920.jpg</image>
+				<image>https://media.cm.expert/images/197d51c451a6d0a687a1f2513b1e6418/max1920.jpg</image>
+				<image>https://media.cm.expert/images/85ca7fa0031e6ccc2716f3b080c0092c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/3681d37f7e8a0fa7d639472cb6e6648c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ba715122b7bd0a64c941aae531a54390/max1920.jpg</image>
+				<image>https://media.cm.expert/images/bb50a12e927a6af9b2c5c2e49afa4864/max1920.jpg</image>
+				<image>https://media.cm.expert/images/6886bfe34abad44ea60fa389cf669600/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4fdc27c1548aa06a6cd6da3c838e8bb0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/34d8c02db816534ec79d96ed024af70b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d404df9c738e7673f97489d9b7318602/max1920.jpg</image>
+				<image>https://media.cm.expert/images/74d2ba8ee31b245aafad8122893cc102/max1920.jpg</image>
+				<image>https://media.cm.expert/images/5eec4f7e09745f7a9e23553db21c1693/max1920.jpg</image>
+				<image>https://media.cm.expert/images/f0b01ac92a525ccf1b337fd2b8ffbe50/max1920.jpg</image>
+				<image>https://media.cm.expert/images/3b1a0ac78ab752554120fc759c5c89eb/max1920.jpg</image>
+				<image>https://media.cm.expert/images/3198305df4bf333a8dff74083aa11d68/max1920.jpg</image>
+				<image>https://media.cm.expert/images/14a1c7b0d8f4d4e77d47a8b675da9fc6/max1920.jpg</image>
+				<image>https://media.cm.expert/images/29fba66f047dd52a694008ab10f1a2d0/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a4d84f93e06885bb94acc631d234b052/max1920.jpg</image>
+				<image>https://media.cm.expert/images/bdd88ec6242ac06599083e96ecafb949/max1920.jpg</image>
+				<image>https://media.cm.expert/images/84c72e6f3eee33e313f2ff8f17113269/max1920.jpg</image>
+				<image>https://media.cm.expert/images/7bf35f01dde85b1bb08acd96420e396b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/b57d0a798cb6d84ba7c7275988416312/max1920.jpg</image>
+				<image>https://media.cm.expert/images/6c895f5e52d2ca7ad1afcaddf28084f3/max1920.jpg</image>
+				<image>https://media.cm.expert/images/33bdb09c64378ee674bbeab4e9b8cd59/max1920.jpg</image>
+				<image>https://media.cm.expert/images/806974e86f649251d679eb5f8148594b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/55b38df0c08ae24a50011c4b0cd7315d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/fa6b8a12e2df63452369f9d5683589b4/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d2c4b7495c841e5927b95bf589b048b7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/faa4b669158aa141a70c1fc224751376/max1920.jpg</image>
+			</images>
+			<poi_id>Самара, Южное шоссе, д.12, стр. 4</poi_id>
+			<armored>нет</armored>
+			<gearbox>Автоматическая</gearbox>
+			<mark_id>GAC</mark_id>
+			<section>Новые</section>
+			<category>Легковые</category>
+			<currency>RUR</currency>
+			<with_nds>false</with_nds>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<folder_id>GS8, II</folder_id>
+			<unique_id>68222062</unique_id>
+			<description />
+			<doors_count>5</doors_count>
+			<engine_type>Бензин</engine_type>
+			<availability>В наличии</availability>
+			<contact_info>
+				<contact>
+					<phone />
+					<sip_url />
+				</contact>
+			</contact_info>
+			<engine_power>231 л.с.</engine_power>
+			<autoru_expert>false</autoru_expert>
+			<engine_volume>2000</engine_volume>
+			<owners_number>Не было владельцев</owners_number>
+			<registry_year>2024</registry_year>
+			<price_category>Неопределенная</price_category>
+			<booking_allowed>false</booking_allowed>
+			<credit_discount>400000</credit_discount>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<tradein_discount>400000</tradein_discount>
+			<complectation_name>GX Premium</complectation_name>
+			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
+			<not_registered_in_russia>true</not_registered_in_russia>
+			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<requires_filling_for_publication_at>2025-03-14T16:15:49+03:00</requires_filling_for_publication_at>
+		<max_discount>1000000</max_discount><priceWithDiscount>3849000</priceWithDiscount><sale_price>3849000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
 	</cars>
 </data>
