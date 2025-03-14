@@ -2868,9 +2868,10 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GL-R</complectation_name>
 			<insurance_discount>250000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-11T16:45:16+03:00</requires_filling_for_publication_at>
-		<max_discount>800000</max_discount><priceWithDiscount>2049000</priceWithDiscount><sale_price>2049000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-r-белый-2024/</url></car>
+		<max_discount>801000</max_discount><priceWithDiscount>2048000</priceWithDiscount><sale_price>2048000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-r-белый-2024/</url></car>
 	</cars>
 </data>
