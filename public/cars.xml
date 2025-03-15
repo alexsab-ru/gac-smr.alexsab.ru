@@ -2868,7 +2868,6 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GL-R</complectation_name>
 			<insurance_discount>250000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-11T16:45:16+03:00</requires_filling_for_publication_at>
@@ -2962,7 +2961,6 @@ Carplay
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T14:08:07+03:00</requires_filling_for_publication_at>
@@ -3061,7 +3059,6 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T14:21:00+03:00</requires_filling_for_publication_at>
@@ -3157,7 +3154,6 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T16:08:29+03:00</requires_filling_for_publication_at>
@@ -3253,7 +3249,6 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T16:13:32+03:00</requires_filling_for_publication_at>
@@ -3337,7 +3332,6 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>200000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T16:15:49+03:00</requires_filling_for_publication_at>
