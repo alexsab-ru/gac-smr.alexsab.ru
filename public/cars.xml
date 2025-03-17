@@ -3225,7 +3225,28 @@ Carplay
 			<body_type>Внедорожник 5 дв.</body_type>
 			<folder_id>GS8, II</folder_id>
 			<unique_id>68222062</unique_id>
-			<description />
+			<description>ДОЛЛАР УПАЛ !!!!
+ШОК ЦЕНА !!!
+УСПЕЙТЕ КУПИТЬ ДО 31.03.2025 ПО СНИЖЕННОЙ СТОИМОСТИ!!!
+Новый GAC GS8 У ОФИЦИАЛЬНОГО ДИЛЕРА “ЭКСПЕРТ АВТО GAC” Гарантия 5 лет или 150000 км пробега!
+
+ЛУЧШИЕ УСЛОВИЯ АВТОКРЕДИТОВАНИЯ В ГОРОДЕ
+РАССРОЧКА ПОД 0,01%
+ПРОГРАММА TRADE IN
+ЦЕНА УКАЗАНА С УЧЕТОМ МАКСИМАЛЬНОЙ ВЫГОДЫ
+
+!!!! ЗИМНЯЯ РЕЗИНА В ПОДАРОК !!!!
+
+Комплектация:
+Светодиодная оптика
+Датчики парковки передние и задние
+Запуск автомобиля с кнопки
+Камера заднего вида
+3х зонный климат контроль,
+Цифровая приборная панель
+Кожаный сало
+Электропривод багажника
+Обогрев лобового стекла</description>
 			<doors_count>5</doors_count>
 			<engine_type>Бензин</engine_type>
 			<availability>В наличии</availability>
@@ -3247,6 +3268,7 @@ Carplay
 			<tradein_discount>400000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T16:15:49+03:00</requires_filling_for_publication_at>
