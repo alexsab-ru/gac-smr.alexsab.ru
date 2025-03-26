@@ -3272,5 +3272,99 @@ Carplay
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-03-14T16:15:49+03:00</requires_filling_for_publication_at>
 		<max_discount>1000000</max_discount><priceWithDiscount>3849000</priceWithDiscount><sale_price>3849000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
+		<car>
+			<pts>Оригинал</pts>
+			<run>0</run>
+			<sts />
+			<vin>LMGHT1L89R3124565</vin>
+			<year>2024</year>
+			<color>Розовый</color>
+			<drive>Передний</drive>
+			<price>2849000</price>
+			<wheel>левый</wheel>
+			<action>show</action>
+			<custom>Растаможен</custom>
+			<extras>Android Auto, Bluetooth, CarPlay, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Вентиляция передних сидений, Датчик давления в шинах, Датчик дождя, Датчик света, Декоративная подсветка салона, Диски 19, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль 1-зонный, Кожа (Материал салона), Крепление для детского кресла (задний ряд), Крепление для детского кресла (передний ряд), Люк, Мультифункциональное рулевое колесо, Отделка кожей рулевого колеса, Парктроник задний, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по высоте, Регулировка сиденья водителя по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система контроля за полосой движения, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Третий задний подголовник, Усилитель руля, Функция складывания спинки сиденья пассажира, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
+			<images>
+				<image>https://media.cm.expert/images/13771100a1c79b87d8a3cfb144cc1867/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2649bf1c845764e1a7503c09a4b37ab7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2589359d049e1ba6dfd9a85a15443a86/max1920.jpg</image>
+				<image>https://media.cm.expert/images/fd05cc70ca222182422780c17e4f584d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4f3175194d50bb44f7eb02972fb75f4a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/73c7e43d9d6c6fcbf97356d137d18a6c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/baa9ed312c9931334ce6d42f76660846/max1920.jpg</image>
+				<image>https://media.cm.expert/images/65e0c1ea52bee10918b0588dcfc9d99d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/78d42379b05b6483448d9301088e8b8f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/6ae3bc73aaf3809fefc6fbf92047be56/max1920.jpg</image>
+				<image>https://media.cm.expert/images/fab0e1adbfbfd1c2aebe3c07c8842cf7/max1920.jpg</image>
+				<image>https://media.cm.expert/images/12f85f4e829c929501e2a1c3644dbb7b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/7cea3e8d854a9b1459170ccc9b4f1ba2/max1920.jpg</image>
+				<image>https://media.cm.expert/images/d223d3b7126c2be2418c4fe5742bcf2e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a78e3085fae63ac2dae640afa1f5ed2b/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a93159a36eb028361e18e48d99f97507/max1920.jpg</image>
+				<image>https://media.cm.expert/images/870cece20af276e8fef05383b460a7ea/max1920.jpg</image>
+				<image>https://media.cm.expert/images/e3af1f7f5ebaa778b457ab234389428c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/df013fd52aef77eec9024bf7bd6b6022/max1920.jpg</image>
+				<image>https://media.cm.expert/images/25743323db08c4c616f09ad40aa2aafe/max1920.jpg</image>
+			</images>
+			<poi_id>Самара, Южное шоссе, д.12, стр. 4</poi_id>
+			<armored>нет</armored>
+			<gearbox>Автомат робот</gearbox>
+			<mark_id>GAC</mark_id>
+			<section>Новые</section>
+			<category>Легковые</category>
+			<currency>RUR</currency>
+			<with_nds>false</with_nds>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<folder_id>GS3</folder_id>
+			<unique_id>68329214</unique_id>
+			<description>ДОЛЛАР УПАЛ !!!!
+ШОК ЦЕНА !!!
+УСПЕЙТЕ КУПИТЬ ДО 31.03.2025 ПО СНИЖЕННОЙ СТОИМОСТИ!!!
+Новый GAC GS3 У ОФИЦИАЛЬНОГО ДИЛЕРА “ЭКСПЕРТ АВТО GAC” Гарантия 5 лет или 150000 км пробега!
+
+ЛУЧШИЕ УСЛОВИЯ АВТОКРЕДИТОВАНИЯ В ГОРОДЕ
+РАССРОЧКА ПОД 0,01%
+ПРОГРАММА TRADE IN
+ЦЕНА УКАЗАНА С УЧЕТОМ МАКСИМАЛЬНОЙ ВЫГОДЫ
+
+!!!! ЗИМНЯЯ РЕЗИНА В ПОДАРОК !!!!
+
+Комплектация:
+
+Светодиодная оптика
+Датчики парковки задние
+Круиз контроль
+Запуск автомобиля с кнопки
+Климат контроль
+Цифровая приборная панель
+Кожаный салон
+Эксклюзивный матовый окрас</description>
+			<doors_count>5</doors_count>
+			<engine_type>Бензин</engine_type>
+			<availability>В наличии</availability>
+			<contact_info>
+				<contact>
+					<phone />
+					<sip_url />
+				</contact>
+			</contact_info>
+			<engine_power>170 л.с.</engine_power>
+			<autoru_expert>false</autoru_expert>
+			<engine_volume>1500</engine_volume>
+			<owners_number>Не было владельцев</owners_number>
+			<registry_year>2024</registry_year>
+			<price_category>Неопределенная</price_category>
+			<booking_allowed>false</booking_allowed>
+			<credit_discount>300000</credit_discount>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<tradein_discount>300000</tradein_discount>
+			<complectation_name>GL-R</complectation_name>
+			<insurance_discount>200000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
+			<not_registered_in_russia>true</not_registered_in_russia>
+			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<requires_filling_for_publication_at>2025-03-26T16:54:48+03:00</requires_filling_for_publication_at>
+		<max_discount>800000</max_discount><priceWithDiscount>2049000</priceWithDiscount><sale_price>2049000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-r-розовый-2024/</url></car>
 	</cars>
 </data>
