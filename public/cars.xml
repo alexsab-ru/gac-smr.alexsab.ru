@@ -3280,15 +3280,16 @@
 			<registry_year>2024</registry_year>
 			<price_category>Неопределенная</price_category>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount>200000</credit_discount>
+			<credit_discount>300000</credit_discount>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
 			<tradein_discount>100000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-04-01T16:33:41+03:00</requires_filling_for_publication_at>
-		<max_discount>400000</max_discount><priceWithDiscount>2599000</priceWithDiscount><sale_price>2599000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-15-amt-170-лс-gb-белый-2024/</url></car>
+		<max_discount>500000</max_discount><priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-15-amt-170-лс-gb-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -3363,14 +3364,15 @@
 			<registry_year>2024</registry_year>
 			<price_category>Неопределенная</price_category>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount>200000</credit_discount>
+			<credit_discount>300000</credit_discount>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
 			<tradein_discount>100000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-04-01T16:44:15+03:00</requires_filling_for_publication_at>
-		<max_discount>400000</max_discount><priceWithDiscount>2599000</priceWithDiscount><sale_price>2599000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-15-amt-170-лс-gb-серый-2024/</url></car>
+		<max_discount>500000</max_discount><priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-15-amt-170-лс-gb-серый-2024/</url></car>
 	</cars>
 </data>
