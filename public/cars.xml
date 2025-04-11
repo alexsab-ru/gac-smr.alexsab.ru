@@ -3541,5 +3541,92 @@
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-04-10T14:54:49+03:00</requires_filling_for_publication_at>
 		<max_discount>500000</max_discount><priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-15-amt-170-лс-gb-черный-2024/</url></car>
+		<car>
+			<pts>Оригинал</pts>
+			<run>0</run>
+			<sts />
+			<vin>LMGJU3G84S1047612</vin>
+			<year>2024</year>
+			<color>Черный</color>
+			<drive>Полный</drive>
+			<price>4949000</price>
+			<wheel>левый</wheel>
+			<action>show</action>
+			<custom>Растаможен</custom>
+			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Вентиляция передних сидений, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Противотуманные фары, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
+			<images>
+				<image>https://media.cm.expert/images/ae44a0350128c2c829dccaf038c8877d/max1920.jpg</image>
+				<image>https://media.cm.expert/images/04e5234c46ac5d29c897b1193a73039c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/4c3d6f8544a2d9dbbf0d3bcaec4a21a6/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2c0fb6b739c5906345196d3dc1fb42d5/max1920.jpg</image>
+				<image>https://media.cm.expert/images/68ed298332e567675696873034ce8f4e/max1920.jpg</image>
+				<image>https://media.cm.expert/images/c947b97fda494128e220d8f38176e6ec/max1920.jpg</image>
+				<image>https://media.cm.expert/images/ee395bea206dfad78b9a6ccbb2e4b925/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a44d13c7b6af462bbe18c901a0b7ba5c/max1920.jpg</image>
+				<image>https://media.cm.expert/images/03cc2c30a69d3f118a7649eb1544fb18/max1920.jpg</image>
+				<image>https://media.cm.expert/images/a55cdb8896105cb5b833890658e04e0a/max1920.jpg</image>
+				<image>https://media.cm.expert/images/0358527ea6acd0642fb0b1a9d15c6041/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2a7e0cd46af8f9f763a95a49a7e72001/max1920.jpg</image>
+				<image>https://media.cm.expert/images/45ee8df61f5cb60f08416268cb01b1ac/max1920.jpg</image>
+				<image>https://media.cm.expert/images/7eb8f5dff21e66e1afbfddbd86e149bf/max1920.jpg</image>
+				<image>https://media.cm.expert/images/025dd098d18213fc9b8a85e40c1b2fc8/max1920.jpg</image>
+				<image>https://media.cm.expert/images/2f82e1bdae067d02ab291cdf920d8bb3/max1920.jpg</image>
+				<image>https://media.cm.expert/images/0ea30df30b3e38b0448fae00eaf9f70f/max1920.jpg</image>
+				<image>https://media.cm.expert/images/76be4b8d36e715399f98629b0dcd4d40/max1920.jpg</image>
+			</images>
+			<poi_id>Самара, Южное шоссе, д.12, стр. 4</poi_id>
+			<armored>нет</armored>
+			<gearbox>Автоматическая</gearbox>
+			<mark_id>GAC</mark_id>
+			<section>Новые</section>
+			<category>Легковые</category>
+			<currency>RUR</currency>
+			<with_nds>false</with_nds>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<folder_id>GS8, II</folder_id>
+			<unique_id>68503305</unique_id>
+			<description>GAC в ЭКСПЕРТ АВТО САМАРА
+ШОК ЦЕНА скидка до 1 000 000 ₽!
+РАСПРОДАЖА СКЛАДА 2024 ГОДА!
+УСПЕЙТЕ КУПИТЬ ДО 30.04.2025 ПО СЕБЕСТОИМОСТИ!!!
+
+✅ Рассрочка от 0,01% — забирайте автомобиль, платите удобно!
+✅ Лизинг с выгодой 10% — идеальные условия для бизнеса и личного использования!
+✅ Сливаем по себестоимости автомобили 2024 года — экономьте уже сейчас!
+✅ Выгоды до 1 000 000 ₽ — реальная экономия при покупке!
+✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу!
+✅ Официальная гарантия 5 лет или 150 000 км — надёжность в каждой поездке!
+✅ Индивидуальные условия покупки в лизинг и обмене авто — выгодно и удобно!
+✅ Большой выбор авто в наличии — выберите свою модель прямо на месте!
+
+✔️ Дистанционная подача заявки — экономьте время!
+✔️ Выбор банка с лучшими условиями — только то, что выгодно именно вам!
+✔️ Полное сопровождение сделки — наши специалисты помогут на каждом этапе!</description>
+			<doors_count>5</doors_count>
+			<engine_type>Бензин</engine_type>
+			<availability>В наличии</availability>
+			<contact_info>
+				<contact>
+					<phone />
+					<sip_url />
+				</contact>
+			</contact_info>
+			<engine_power>231 л.с.</engine_power>
+			<autoru_expert>false</autoru_expert>
+			<engine_volume>2000</engine_volume>
+			<owners_number>Не было владельцев</owners_number>
+			<registry_year>2024</registry_year>
+			<price_category>Неопределенная</price_category>
+			<booking_allowed>false</booking_allowed>
+			<credit_discount>150000</credit_discount>
+			<modification_id>Traveller 2.0 AT (231 л.с.) 4WD</modification_id>
+			<tradein_discount>300000</tradein_discount>
+			<complectation_name>GX Traveller</complectation_name>
+			<insurance_discount>100000</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
+			<not_registered_in_russia>true</not_registered_in_russia>
+			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
+			<requires_filling_for_publication_at>2025-04-11T12:40:04+03:00</requires_filling_for_publication_at>
+		<max_discount>550000</max_discount><priceWithDiscount>4399000</priceWithDiscount><sale_price>4399000</sale_price><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-traveller-20-at-231-лс-4wd-gx-traveller-черный-2024/</url></car>
 	</cars>
 </data>
