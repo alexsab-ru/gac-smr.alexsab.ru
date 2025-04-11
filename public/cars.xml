@@ -3537,7 +3537,6 @@
 			<tradein_discount>100000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount>150000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-04-10T14:54:49+03:00</requires_filling_for_publication_at>
