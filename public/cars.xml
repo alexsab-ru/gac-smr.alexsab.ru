@@ -3623,7 +3623,6 @@
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Traveller</complectation_name>
 			<insurance_discount>100000</insurance_discount>
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-04-11T12:40:04+03:00</requires_filling_for_publication_at>
